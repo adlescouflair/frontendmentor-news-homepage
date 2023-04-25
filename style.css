@@ -212,6 +212,11 @@ nav li a:hover {
   padding: 1.5rem;
 }
 
+.recent_news h1 {
+  color: var(--clr-primary-color);
+  font-size: 2rem;
+}
+
 
 .recent_news li:not(:last-child) {
   border-bottom: solid 0.5px var(--clr-neutral-100);
